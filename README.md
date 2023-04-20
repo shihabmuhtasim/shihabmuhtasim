@@ -19,7 +19,7 @@ CSE student at Brac University with a perfect CGPA of 4.00 🏆<br>Passionate ab
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shihabmuhtasim&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shihabmuhtasim&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shihabmuhtasim&icon=6&color=12)](https://visitcount.itsvg.in)
