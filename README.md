@@ -13,10 +13,7 @@ CSE student at Brac University with a perfect CGPA of 4.00<br>Passionate about d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabmuhtasim&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shihabmuhtasim&icon=0&color=3)](https://visitcount.itsvg.in)
