@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, Mysql, PHP currently learning Java, CSS, and HTML 📝<br>Expertise in backend development 💡<br>Seeking part-time job opportunities to enhance my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
+CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, Mysql, PHP<br> currently learning Java, CSS, and HTML 📝<br>Expertise in backend development 💡<br>Seeking part-time job opportunities to apply my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
 
 
 ## 🌐 Socials:
