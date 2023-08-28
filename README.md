@@ -19,4 +19,8 @@ CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about deve
 ## 💰 Donate
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shihabmuhtc)
 
+## 📊 Repository Activity:
+<!-- Your GitHub Activity Stats -->
+[![Shihab's GitHub Activity](https://github-readme-stats.vercel.app/api?username=shihabmuhtasim&theme=slateorange&hide_border=false)](https://github.com/shihabmuhtasim)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
