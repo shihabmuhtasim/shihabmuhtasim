@@ -1,7 +1,6 @@
 ## 💫 About Me:
 CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, Mysql, PHP, LARAVEL, CSS, HTML, LATEX 🎖️<br> Currently working on React, Java Script, ML  📝<br>Expertise in backend development 💡<br>Seeking part-time job opportunities to apply my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihabmuhtasim) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shihabmuhtasim)
@@ -17,8 +16,7 @@ CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about deve
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  ## 💰 Donate
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shihabmuhtc)
+## 💰 Donate
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shihabmuhtc)
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
