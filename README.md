@@ -16,10 +16,8 @@ CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shihabmuhtasim&theme=onedark&no-frame=false&no-bg=false&margin-w=4&rank=AA,B,A)
 
-
-
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shihabmuhtasim&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shihabmuhtasim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
