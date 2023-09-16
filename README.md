@@ -17,14 +17,10 @@ CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shihabmuhtasim&theme=onedark&no-frame=false&no-bg=false&margin-w=4&rank=AA,B,A)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shihabmuhtasim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## 💰 Donate
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shihabmuhtc)
