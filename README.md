@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Final year CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, Mysql, PHP, LARAVEL, CSS, HTML, C LATEX, Assembly, OpenGL, React frontend 🎖️<br> Currently working on NLP, ML, Network Science  📝<br>Expertise in backend development 💡<br>Seeking part-time job opportunities to apply my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
+Final year CSE student at Brac University with a CGPA of 4.00 🏆<br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, Mysql, PHP, LARAVEL, CSS, HTML, C, LATEX, Assembly, OpenGL, React frontend 🎖️<br> Currently working on NLP, ML, Network Science  📝<br>Expertise in backend development 💡<br>Seeking part-time job opportunities to apply my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihabmuhtasim) 
