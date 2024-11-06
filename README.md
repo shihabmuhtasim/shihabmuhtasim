@@ -5,8 +5,7 @@ Graduated from Brac University with a CGPA of 4.00 🏆<br>Passionate about deve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihabmuhtasim) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shihabmuhtasim)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shihabmuhtasim)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=HackerRank&logoColor=white&style=flat-square&color=black)](https://www.hackerrank.com/yourusername) ![green](https://img.shields.io/badge/-green-square?style=flat-square&color=green)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=HackerRank&logoColor=white&style=flat-square&color=black)](https://www.hackerrank.com/yourusername) 
 
 
 
