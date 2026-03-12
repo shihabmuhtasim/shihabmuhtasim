@@ -1,6 +1,6 @@
 ## 💫 About Me:
 Doing master's in the IPCVAI (AI for Image Processing and Computer Vision) program across Europe as an Erasmus Mundus Scholar.  <br>
-CSE graduated as the valedictorian and Chancellor's Gold Medalist from BRAC University with a perfect CGPA of 4.0 🏆 <br> Adjunct Lecturer at BRAC University (CSE) 📝 <br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, SQL, PHP, LARAVEL, CSS, HTML, C, LATEX, Assembly, OpenGL, React frontend 🎖️<br> Research domain:  NLP, ML, Network Science  📝<br>Expertise in backend development 💡<br>Seeking full-time job opportunities to apply my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
+CSE graduated as the valedictorian and Chancellor's Gold Medalist from BRAC University with a perfect CGPA of 4.0 🏆 <br> Former Adjunct Lecturer at BRAC University (CSE) 📝 <br>Passionate about developing innovative apps and websites 🖥️<br>Skilled in Python, SQL, PHP, LARAVEL, CSS, HTML, C, LATEX, Assembly, OpenGL, React frontend 🎖️<br> Research domain:  NLP, ML, Network Science  📝<br>Expertise in backend development 💡<br>Seeking full-time job opportunities to apply my skills 🏢<br>Satisfaction of creating functional software solutions drew me to CSE 💫
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihabmuhtasim) 
